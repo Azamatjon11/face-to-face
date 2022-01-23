@@ -1,0 +1,1 @@
+web: guunicorn mychat.wsgi --log-file -
